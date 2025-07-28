@@ -1,4 +1,4 @@
-# Hello, I'm Moises! 👋  
+# Hello, I'm MIZE! 👋  
 
 ## 🚀 About Me  
 - 🔧 **Languages**:  
