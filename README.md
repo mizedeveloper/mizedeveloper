@@ -3,7 +3,7 @@
 🎯 IT Support Technician | Junior Developer  
 📍 Faro, Portugal  
 💻 Windows | Linux | Automation | Programming  
-🌍 Portuguese & English (Fluent)
+🌍 English & Portuguese (Fluent)
 
 I’m an IT professional with technical education in **Information Systems Management and Programming (TGPSI)**, with hands-on experience in **technical support, computer maintenance, software testing, and basic system development**.
 
