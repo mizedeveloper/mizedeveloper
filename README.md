@@ -1,47 +1,47 @@
-# 👋 Opa, Moisés aqui! (Mize)
+# 👋 Hi, I'm Moisés (Mize)
 
-🎯 Técnico de Informática / IT Support  
+🎯 IT Support Technician | Junior Developer  
 📍 Faro, Portugal  
-💻 Windows | Linux | Automação | Programação  
-🌍 Português & Inglês (fluente)
+💻 Windows | Linux | Automation | Programming  
+🌍 Portuguese & English (Fluent)
 
-Sou um profissional de informática com formação em **TGPSI**, experiência prática em **suporte técnico, manutenção de computadores, testes de software e desenvolvimento de sistemas simples**.  
-Tenho facilidade em aprender, gosto de resolver problemas e me adapto rápido a novas tecnologias.
+I’m an IT professional with technical education in **Information Systems Management and Programming (TGPSI)**, with hands-on experience in **technical support, computer maintenance, software testing, and basic system development**.
+
+I’m a versatile person, fast learner, communicative, and focused on problem-solving. I’m comfortable working with both **Windows and Linux environments**, using terminal tools, and building simple but functional solutions through programming and automation.
 
 ---
 
-## 🛠️ Competências Técnicas
+## 🛠️ Technical Skills
 
-### 🔧 Suporte & Sistemas
-- Montagem e manutenção de computadores
-- Diagnóstico de hardware e software
-- Helpdesk e atendimento técnico
-- Windows & Linux (uso de terminal, instalação e configuração)
+### 🔧 IT Support & Systems
+- Computer assembly and maintenance 
+- Hardware and software diagnostics
+- Helpdesk and technical customer support
+- Windows & Linux (terminal usage, installation, configuration)
 
-### 💻 Programação & Desenvolvimento
-- **Linguagens:** C, Visual Basic, HTML, PHP, JavaScript, SQL
-- Desenvolvimento de softwares simples
-- Sistema escolar web (HTML, PHP, JS, SQL)
-- Lógica de programação e resolução de problemas
+### 💻 Programming & Development
+- **Languages:** C, Visual Basic, HTML, PHP, JavaScript, SQL
+- Development of simple applications and systems
+- Web-based school management system (HTML, PHP, JS, SQL)
+- Strong logical thinking and problem-solving skills
 
-### ⚙️ Automação & Scripts
+### ⚙️ Automation & Scripting
 - PowerShell
 - Bash 
-- Scripts de automação e testes (ambiente controlado)
+- Automation scripts for learning and testing purposes
 
-### 🧪 QA / Documentação
+### 🧪 QA & Documentation
 - Bug reporting
-- Testes de software
-- Documentação técnica
+- Software testing
+- Technical documentation
 
 ---
 
-## 📂 Projetos em Destaque
-🔹 Sistema Escolar Web  
-🔹 Scripts de Automação em PowerShell  
-🔹 Programas em C e Visual Basic  
+## 📂 Featured Projects
+🔹 Web-based School Management System  
+🔹 PowerShell Automation Scripts  
+🔹 C & Visual Basic Programs  
 
-
-## 📫 Contato
+## 📫 Contact
 - LinkedIn: https://linkedin.com/in/moisescaricchio
 - Email: moisesrocha2223@gmail.com
