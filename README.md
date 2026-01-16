@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moisés (Mize)
+# 👋 Heya, Moisés here! (Mize)
 
 🎯 **IT Support Technician | Junior Developer**  
 📍 Faro, Portugal  
@@ -64,7 +64,7 @@ Small applications focused on logic, system interaction, and learning fundamenta
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me!
 
 - 🔗 LinkedIn: https://linkedin.com/in/moisescaricchio  
 - 📧 Email: moisesrocha2223@gmail.com
