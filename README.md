@@ -41,11 +41,6 @@ I’m a fast learner, communicative, and problem-oriented, comfortable working w
 
 - Automation scripts for learning, testing, and system tasks  
 
-### 🧪 QA & Documentation
-- Software testing  
-- Bug reporting  
-- Technical documentation  
-
 ---
 
 ## 📂 Featured Projects
