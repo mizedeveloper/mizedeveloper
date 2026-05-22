@@ -37,7 +37,6 @@ I’m a fast learner, communicative, and problem-oriented, comfortable working w
 
 ### ⚙️ Automation & Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - Automation scripts for learning, testing, and system tasks  
 
