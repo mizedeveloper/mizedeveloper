@@ -1,8 +1,8 @@
-# 👋 Heya, Moisés here! (Mize)
-🎯 **IT Technician | PHP | MySQL | VB.NET | HTML/CSS**
-📍 Santa Catarina, Brazil
-🌍 English & Portuguese (Fluent)
-💻 Windows • Linux • Automation • Programming
+# 👋 Heya, Moisés here! (Mize)  
+🎯 **IT Technician | PHP | MySQL | VB.NET | HTML/CSS**  
+📍 Santa Catarina, Brazil  
+🌍 English & Portuguese (Fluent)  
+💻 Windows • Linux • Automation • Programming  
 
 ---
 
