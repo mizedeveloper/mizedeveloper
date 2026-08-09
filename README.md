@@ -65,15 +65,15 @@ Dual Portuguese and Brazilian nationality, currently based in Brazil and availab
 
 ## 📂 Featured Projects
 
-### 🔹 S.E.A — School Education & Learning System
+### 🔹 S.E.A: School Education & Learning System
 
 A web-based school management system designed to simulate a real-world school environment, developed using **PHP, MySQL, HTML, CSS, and JavaScript**.
 
 The platform is organized around three user roles:
 
-* 👨‍💼 **Administrator** — manages users and oversees the entire system
-* 👨‍🏫 **Teacher** — manages classes, students, assignments, activities, and classroom incidents
-* 👨‍🎓 **Student** — participates in classes, views assignments, and submits activities
+* 👨‍💼 **Administrator** : manages users and oversees the entire system
+* 👨‍🏫 **Teacher** : manages classes, students, assignments, activities, and classroom incidents
+* 👨‍🎓 **Student** : participates in classes, views assignments, and submits activities
 
 ### Key Features
 
@@ -92,7 +92,7 @@ The project was developed as a **portfolio and educational application**, with t
 
 ---
 
-### 🔹 Alpha Server Audit — Log Analysis & Security Audit
+### 🔹 Alpha Server Audit: Log Analysis & Security Audit
 
 A Python-based cybersecurity and log analysis project developed to audit the web server logs of a fictional company following a suspected **SQL database exposure**.
 
