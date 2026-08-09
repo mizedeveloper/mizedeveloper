@@ -13,7 +13,7 @@ I'm an IT professional with a technical degree in **Information Systems Manageme
 
 I'm a fast learner, communicative, and problem-oriented, with experience working across **Windows and Linux environments**, terminal-based tools, troubleshooting, automation, and software development.
 
-I enjoy building **practical, functional, and structured solutions**, from troubleshooting hardware and operating systems to developing applications and automation scripts.
+I enjoy building **practical, functional, and structured solutions**, from troubleshooting hardware and operating systems to developing applications, automation scripts, and cybersecurity tools.
 
 Dual Portuguese and Brazilian nationality, currently based in Brazil and available for **remote opportunities with teams in Brazil, Portugal, and Europe**.
 
@@ -45,22 +45,47 @@ Dual Portuguese and Brazilian nationality, currently based in Brazil and availab
 * CCTV and network router installation
 * Basic networking and connectivity troubleshooting
 
-### ⚙️ Automation & Scripting
+### ⚙️ Automation, Scripting & Cybersecurity
 
 ![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
 
-* System and process automation
-* Log and file processing
+* Python scripting and process automation
+* Log analysis and data extraction
+* Regular expressions (Regex)
 * API integration
-* Data processing and reporting
-* Automation utilities for IT and cybersecurity tasks
-* Python scripting for repetitive and administrative tasks
+* SHA256 file integrity verification
+* IP address extraction and geolocation
+* Security-oriented data processing
+* Detection of potentially sensitive files and requests
 
 ---
 
 ## 📂 Featured Projects
+
+### 🔹 Alpha Server Audit — Log Analysis & Security Audit
+
+A Python-based cybersecurity and log analysis project developed to audit the web server logs of a fictional company following a suspected **SQL database exposure**.
+
+The project analyzes compressed web server logs to identify suspicious requests, extract relevant IP addresses and URLs, verify file integrity, and investigate the geographical origin of potentially malicious activity.
+
+**Key features:**
+
+* 🔐 SHA256 integrity verification of the received log archive
+* 📋 Automated web server log analysis
+* 🔎 Detection of suspicious requests using Regex
+* 🗄️ Identification of exposed files such as `.env`, `.git/config`, `db.sql`, and database backups
+* 🌐 Extraction of IP addresses, timestamps, and requested URLs
+* 📍 Automated geolocation of suspicious IP addresses
+* 📊 Geographic analysis of the identified IP addresses
+
+Technologies used include **Python 3, Loguru, Requests, Regex, ZIP/GZIP processing, and IP geolocation APIs**.
+
+🔗 [View on GitHub](https://github.com/mizedeveloper/auditoria_alpha)
+
+---
 
 ### 🔹 S.E.A — School Education & Learning System
 
@@ -69,24 +94,6 @@ A web-based school management system developed using **PHP, HTML, CSS, JavaScrip
 The system includes multiple user roles (**Administrator, Teacher, and Student**), authentication, assignment management, and structured database handling.
 
 🔗 [View on GitHub](https://github.com/mizedeveloper/school-management-system)
-
----
-
-### 🔹 Python Automation & Security Tools
-
-A collection of Python scripts developed for **system administration, log analysis, API interaction, data processing, and cybersecurity-related exercises**.
-
-The projects focus on practical problem solving, process automation, structured data handling, and building useful tools for IT environments.
-
-🔗 [View Projects on GitHub](https://github.com/mizedeveloper)
-
----
-
-### 🔹 School Equipment Loan Management System
-
-An internal management solution developed for school use to organize and track **laptop loans to students**.
-
-The system helped maintain student records, return dates, and guardian contact information, with **Excel-based data organization and control**.
 
 ---
 
@@ -107,7 +114,8 @@ I'm continuously improving my skills in:
 
 * 🔗 LinkedIn: https://linkedin.com/in/moisescaricchio
 * 📧 Email: [moisesrocha2223@gmail.com](mailto:moisesrocha2223@gmail.com)
+* 💻 GitHub: https://github.com/mizedeveloper
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thanks for sticking around! :))**
