@@ -1,8 +1,8 @@
 # 👋 Heya, Moisés here! (Mize)
 
-🎯 **IT Technician | Python | PHP | MySQL | Technical Support**
-📍 Santa Catarina, Brazil
-🌍 English & Portuguese (Fluent)
+🎯 **IT Technician | Python | PHP | MySQL | Technical Support**<br>
+📍 Santa Catarina, Brazil<br>
+🌍 English & Portuguese (Fluent)<br>
 💻 Windows • Linux • Automation • Programming
 
 ---
