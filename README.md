@@ -65,28 +65,6 @@ Dual Portuguese and Brazilian nationality, currently based in Brazil and availab
 
 ## 📂 Featured Projects
 
-### 🔹 Alpha Server Audit — Log Analysis & Security Audit
-
-A Python-based cybersecurity and log analysis project developed to audit the web server logs of a fictional company following a suspected **SQL database exposure**.
-
-The project analyzes compressed web server logs to identify suspicious requests, extract relevant IP addresses and URLs, verify file integrity, and investigate the geographical origin of potentially malicious activity.
-
-**Key features:**
-
-* 🔐 SHA256 integrity verification of the received log archive
-* 📋 Automated web server log analysis
-* 🔎 Detection of suspicious requests using Regex
-* 🗄️ Identification of exposed files such as `.env`, `.git/config`, `db.sql`, and database backups
-* 🌐 Extraction of IP addresses, timestamps, and requested URLs
-* 📍 Automated geolocation of suspicious IP addresses
-* 📊 Geographic analysis of the identified IP addresses
-
-Technologies used include **Python 3, Loguru, Requests, Regex, ZIP/GZIP processing, and IP geolocation APIs**.
-
-🔗 [View on GitHub](https://github.com/mizedeveloper/auditoria_alpha)
-
----
-
 ### 🔹 S.E.A — School Education & Learning System
 
 A web-based school management system designed to simulate a real-world school environment, developed using **PHP, MySQL, HTML, CSS, and JavaScript**.
@@ -111,6 +89,28 @@ The platform is organized around three user roles:
 The project was developed as a **portfolio and educational application**, with the interface originally designed for a Portuguese-speaking school environment.
 
 🔗 [View on GitHub](https://github.com/mizedeveloper/school-management-system)
+
+---
+
+### 🔹 Alpha Server Audit — Log Analysis & Security Audit
+
+A Python-based cybersecurity and log analysis project developed to audit the web server logs of a fictional company following a suspected **SQL database exposure**.
+
+The project analyzes compressed web server logs to identify suspicious requests, extract relevant IP addresses and URLs, verify file integrity, and investigate the geographical origin of potentially malicious activity.
+
+**Key features:**
+
+* 🔐 SHA256 integrity verification of the received log archive
+* 📋 Automated web server log analysis
+* 🔎 Detection of suspicious requests using Regex
+* 🗄️ Identification of exposed files such as `.env`, `.git/config`, `db.sql`, and database backups
+* 🌐 Extraction of IP addresses, timestamps, and requested URLs
+* 📍 Automated geolocation of suspicious IP addresses
+* 📊 Geographic analysis of the identified IP addresses
+
+Technologies used include **Python 3, Loguru, Requests, Regex, ZIP/GZIP processing, and IP geolocation APIs**.
+
+🔗 [View on GitHub](https://github.com/mizedeveloper/auditoria_alpha)
 
 ---
 
