@@ -131,7 +131,6 @@ I'm continuously improving my skills in:
 
 * 🔗 LinkedIn: https://linkedin.com/in/moisescaricchio
 * 📧 Email: [moisesrocha2223@gmail.com](mailto:moisesrocha2223@gmail.com)
-* 💻 GitHub: https://github.com/mizedeveloper
 
 ---
 
