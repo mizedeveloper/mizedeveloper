@@ -89,9 +89,26 @@ Technologies used include **Python 3, Loguru, Requests, Regex, ZIP/GZIP processi
 
 ### 🔹 S.E.A — School Education & Learning System
 
-A web-based school management system developed using **PHP, HTML, CSS, JavaScript, and MySQL**.
+A web-based school management system designed to simulate a real-world school environment, developed using **PHP, MySQL, HTML, CSS, and JavaScript**.
 
-The system includes multiple user roles (**Administrator, Teacher, and Student**), authentication, assignment management, and structured database handling.
+The platform is organized around three user roles:
+
+* 👨‍💼 **Administrator** — manages users and oversees the entire system
+* 👨‍🏫 **Teacher** — manages classes, students, assignments, activities, and classroom incidents
+* 👨‍🎓 **Student** — participates in classes, views assignments, and submits activities
+
+### Key Features
+
+* 🔐 Role-based authentication and access control
+* 👥 Student, teacher, and administrator management
+* 🏫 Multiple classes and teacher-student relationships
+* 📝 Assignment and activity creation and submission
+* ⚠️ Classroom incident management
+* 👤 Profile customization with profile pictures
+* 🗄️ MySQL database integration
+* 🖥️ Administrative dashboard
+
+The project was developed as a **portfolio and educational application**, with the interface originally designed for a Portuguese-speaking school environment.
 
 🔗 [View on GitHub](https://github.com/mizedeveloper/school-management-system)
 
